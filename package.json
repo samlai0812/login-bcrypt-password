@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/samlai0812/test.git"
+    "url": "git+ssh://git@github.com/samlai0812/login-bcrypt-password.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/samlai0812/test/issues"
+    "url": "https://github.com/samlai0812/login-bcrypt-password/issues"
   },
-  "homepage": "https://github.com/samlai0812/test#readme",
+  "homepage": "https://github.com/samlai0812/login-bcrypt-password#readme",
   "dependencies": {
     "bcrypt": "^4.0.1",
     "express": "^4.17.1"
