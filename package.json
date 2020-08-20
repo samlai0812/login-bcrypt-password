@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/samlai0812/nodejs-login-bcrypt-password#readme",
   "dependencies": {
-    "bcrypt": "^4.0.1",
+    "bcrypt": "^5.0.0",
     "express": "^4.17.1"
   },
   "devDependencies": {
